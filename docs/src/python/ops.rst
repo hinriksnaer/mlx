@@ -128,3 +128,6 @@ Operations
    where
    zeros
    zeros_like
+   atleast_1d
+   atleast_2d
+   atleast_3d
